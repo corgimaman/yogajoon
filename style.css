@@ -2,6 +2,7 @@ body {
     margin: 20px;
     text-align: center;
     font-family: 'Playfair Display', serif;
+    background-color: #ffd3b6;
 }
 
 ul {
@@ -36,4 +37,15 @@ ul {
   @media screen and (max-width: 600px) {
     
     ul li {float: none;}
+  }
+
+  p {
+    font-size: large;
+  }
+
+  
+
+  #main-text {
+    background-color: #FFF2E9;
+    padding: 20px;
   }
